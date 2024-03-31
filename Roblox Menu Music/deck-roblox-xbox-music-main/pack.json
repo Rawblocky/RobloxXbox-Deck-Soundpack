@@ -1,0 +1,10 @@
+{
+  "name": "Roblox Xbox Menu Music (2016-2023)",
+  "description": "Used in the menu of the 2016-2023 versions of Roblox on the Xbox One.",
+  "author": "Rawblocky",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
